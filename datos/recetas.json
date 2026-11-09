@@ -1,0 +1,47 @@
+[
+{
+    "id": 1,
+    "nombre": "Gallo Pinto",
+    "categoria": "Desayuno",
+    "tiempo": "30 minutos",
+    "imagen": "https://th.bing.com/th/id/R.81c22ef5be84b84e18486a55fa54f977?rik=y72a0k9uM4EmqQ&pid=ImgRaw&r=0",
+    "ingredientes": "2 tazas de arroz cocido, 2 tazas de frijoles negros, cebolla, chile dulce, culantro, salsa Lizano",
+    "pasos": "Sofreír la cebolla y el chile dulce. Agregar los frijoles, el arroz y la salsa Lizano. Mezclar bien y cocinar por 10 minutos."
+},
+{
+    "id": 2,
+    "nombre": "Casado",
+    "categoria": "Almuerzo",
+    "tiempo": "45 minutos",
+    "imagen": "https://www.ayleenrecipes.com/wp-content/uploads/2025/08/yampmfforui2ezacmmiv.webp",
+    "ingredientes": "Arroz, frijoles, carne de res, ensalada, plátano maduro y tortillas",
+    "pasos": "Cocinar el arroz y los frijoles. Asar la carne. Preparar la ensalada y freír el plátano. Servir todo junto."
+},
+{
+    "id": 3,
+    "nombre": "Olla de Carne",
+    "categoria": "Almuerzo",
+    "tiempo": "2 horas",
+    "imagen": "https://tse2.mm.bing.net/th/id/OIP.EgTLcaHIMivJxsLXZ6YQHAHaE8?r=0&rs=1&pid=ImgDetMain&o=7&rm=3",
+    "ingredientes": "Carne de res, papa, yuca, chayote, zanahoria, elote, culantro y sal",
+    "pasos": "Hervir la carne hasta que esté suave. Agregar los vegetales poco a poco y cocinar hasta que todo esté tierno."
+},
+{
+    "id": 4,
+    "nombre": "Arroz con Pollo",
+    "categoria": "Almuerzo",
+    "tiempo": "1 hora",
+    "imagen": "https://1.bp.blogspot.com/-yC_7zAhYt7E/WrHuOcDT11I/AAAAAAAAAhg/HEjfh4e2mlgGXd5o8-JMlsUlifmAVtu5QCLcBGAs/w1120/05-ARROZ-POLLO.png",
+    "ingredientes": "Arroz, pollo desmenuzado, zanahoria, chile dulce, cebolla, culantro y salsa Lizano",
+    "pasos": "Sofreír los vegetales. Agregar el pollo, el arroz cocido y la salsa Lizano. Mezclar y cocinar durante 10 minutos."
+},
+{
+    "id": 5,
+    "nombre": "Tamal Costarricense",
+    "categoria": "Cena",
+    "tiempo": "3 horas",
+    "imagen": "https://i.pinimg.com/736x/4e/c7/4f/4ec74f511b50323c8998088126d04765.jpg",
+    "ingredientes": "Masa de maíz, carne de cerdo, arroz, zanahoria, papa, chile dulce y hojas de plátano",
+    "pasos": "Preparar la masa. Colocar el relleno sobre la hoja de plátano, envolver el tamal y cocinar en agua hirviendo durante 2 horas."
+}
+]

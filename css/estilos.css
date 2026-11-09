@@ -1,0 +1,27 @@
+/* Estilos propios que complementan a Bootstrap */
+
+body {
+    background-color: #f7f9f7;
+}
+
+.card-receta img {
+    height: 250px;
+    object-fit: cover;
+}
+
+.card-receta {
+    transition: transform 0.2s ease;
+}
+
+.card-receta:hover {
+    transform: translateY(-4px);
+}
+
+.imagen-detalle {
+    height: 450px;
+    object-fit: cover;
+}
+
+.formulario {
+    max-width: 650px;
+}
